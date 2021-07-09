@@ -33,4 +33,3 @@ This is a  web application that takes an API which had a lot of data and then vi
 3. Run npm start on your terminal
 
 # COVID19-TRACKER-APP
-# COVID19-TRACKER-APP
